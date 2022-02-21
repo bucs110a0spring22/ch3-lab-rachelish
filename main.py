@@ -33,7 +33,7 @@ leonardo.goto(-100,-20)
 
 # Part B - complete part B here
 sides_length = 20
-num_of_sides = [4, 6, 9, 12]
+num_of_sides = [3, 4, 6, 9, 12]
 leonardo.goto(-20, -30)
 
 for i in range(len(num_of_sides)):
